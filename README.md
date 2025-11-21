@@ -9,7 +9,7 @@ The solutions are implemented in self-contained, parameter-driven functions, all
 The solutions are organized by language to clearly demonstrate logical equivalence across different programming environments.
 
 * **JavaScript:** Complete solutions for 24 challenges are located in the `/javascript` directory.
-* **Python:** Implementation is planned for the future.
+* **Python:** Complete solutions for 24 challenges are located in the `/python` directory.
 
 ## Key Features & Code Architecture
 * **Single File Organization:** All 24 algorithms are organized within a single file (`exercisesJS.js`), demonstrating effective function structuring and module management.
